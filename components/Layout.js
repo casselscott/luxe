@@ -66,7 +66,7 @@ export default function Layout({ title, children, noFooter }) {
             <Link href="/" legacyBehavior>
               <a className="flex items-center group whitespace-nowrap">
                 <Image
-                  src="/images/logo.jpg"
+                  src="https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707849/logo_ejqrdv.jpg"
                   alt="logo"
                   width={45}
                   height={40}

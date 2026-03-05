@@ -3,19 +3,17 @@ import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 const images = [
-  "/images/63.png",
-  "/images/64.png",
-  "/images/65.png",
-  "/images/67.png",
-  "/images/68.png",
-  "/images/69.png",
-  "/images/71.png",
-  "/images/78.jpg",
-  "/images/79.jpg",
-  "/images/61.png",
-  "/images/62.png",
-  "/images/80.jpg",
-  "/images/81.png",
+  "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707063/65_npaohs.png",
+  "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772706718/62_jpvfiw.png",
+  "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772706977/64_ns3mk9.png",
+  "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707149/67_tinvzb.png",
+  "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707382/71_p3rwpu.png",
+  "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707333/69_xa9ogj.png",
+  "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772706634/61_wui77y.png",
+  "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707584/78_imjysd.jpg",
+  "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707619/79_otb9u0.jpg",
+  "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707646/80_xh2ocu.jpg",
+  "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772708613/81_szsftw.png",
 ];
 
 export default function ProductCarousel() {

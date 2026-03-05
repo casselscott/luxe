@@ -48,7 +48,7 @@ export default function LoginScreen() {
         <div className="hidden md:block relative h-full animate-fadeIn">
           <div className="absolute inset-0 animate-float">
             <Image
-              src="/images/image55.jpg"
+              src="https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707859/image55_hqlwgs.jpg"
               alt=""
               fill
               className="object-cover"

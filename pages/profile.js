@@ -54,7 +54,7 @@ export default function ProfileScreen() {
         <div className="hidden md:block relative h-full animate-fadeIn">
           <div className="absolute inset-0 animate-float">
             <Image
-              src="/images/image56.jpg"
+              src="https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707867/image56_vcnaud.jpg"
               alt=""
               fill
               className="object-cover"

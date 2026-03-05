@@ -47,11 +47,26 @@ export default function Home({ products }) {
       <section className="home-image-section section-gap">
         <ImageLayout
           images={[
-            { src: "/images/73.png", alt: "Spring fashion" },
-            { src: "/images/74.png", alt: "Summer vibe" },
-            { src: "/images/75.png", alt: "Autumn leaves" },
-            { src: "/images/76.png", alt: "Winter glow" },
-            { src: "/images/77.png", alt: "Urban style" },
+            {
+              src: "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707561/76_uagtxq.png",
+              alt: "Spring fashion",
+            },
+            {
+              src: "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707405/73_yhojim.png",
+              alt: "Summer vibe",
+            },
+            {
+              src: "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707414/74_fymqhr.png",
+              alt: "Autumn leaves",
+            },
+            {
+              src: "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707555/75_eizzrt.png",
+              alt: "Winter glow",
+            },
+            {
+              src: "https://res.cloudinary.com/dxvfabxw8/image/upload/v1772707564/77_uiey4a.png",
+              alt: "Urban style",
+            },
           ]}
           interval={4000}
         />
